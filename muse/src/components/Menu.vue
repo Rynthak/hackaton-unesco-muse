@@ -12,12 +12,12 @@
           <font-awesome-icon :icon="[ 'fas', 'folder-plus' ]" fixed-width />Add new Muse
         </b-nav-item>
       </b-navbar-nav>
-      <!-- Right aligned nav items -->
+      <!-- Right aligned nav items 
       <b-navbar-nav class="ml-auto">
         <b-nav-item :to="{ name: 'Search' }" exact>
           <font-awesome-icon :icon="[ 'fas', 'search' ]" fixed-width />Search
         </b-nav-item>
-      </b-navbar-nav>
+      </b-navbar-nav> -->
     </b-collapse>
   </b-navbar>  
 </template>
