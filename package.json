@@ -21,8 +21,10 @@
   },
   "homepage": "https://github.com/Rynthak/hackaton-unesco-muse#readme",
   "dependencies": {
+    "dotenv": "^7.0.0",
     "openzeppelin-solidity": "^2.2.0",
     "truffle": "^5.0.12",
+    "truffle-hdwallet-provider": "^1.0.6",
     "vue-cli": "^2.9.6"
   }
 }

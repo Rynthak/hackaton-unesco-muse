@@ -4,7 +4,7 @@ import "openzeppelin-solidity/contracts/math/SafeMath.sol";
 import "openzeppelin-solidity/contracts/ownership/Ownable.sol";
 
 
-contract Muse is Ownable{
+contract MuseContract is Ownable{
 	
    using SafeMath for uint256;
    struct Muse {
