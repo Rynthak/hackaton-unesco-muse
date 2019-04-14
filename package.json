@@ -1,0 +1,27 @@
+{
+  "name": "hackaton-unesco-muse",
+  "version": "1.0.0",
+  "description": "Project Muse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rynthak/hackaton-unesco-muse.git"
+  },
+  "keywords": [
+    "muse",
+    "hackaton"
+  ],
+  "author": "rynthak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rynthak/hackaton-unesco-muse/issues"
+  },
+  "homepage": "https://github.com/Rynthak/hackaton-unesco-muse#readme",
+  "dependencies": {
+    "openzeppelin-solidity": "^2.2.0",
+    "truffle": "^5.0.12"
+  }
+}
