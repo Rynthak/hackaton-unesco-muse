@@ -22,6 +22,7 @@
   "homepage": "https://github.com/Rynthak/hackaton-unesco-muse#readme",
   "dependencies": {
     "openzeppelin-solidity": "^2.2.0",
-    "truffle": "^5.0.12"
+    "truffle": "^5.0.12",
+    "vue-cli": "^2.9.6"
   }
 }
